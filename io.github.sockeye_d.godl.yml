@@ -34,4 +34,4 @@ modules:
       - type: git
         url: https://github.com/sockeye-d/godl.git
         tag: v1.3
-        commit: afe9d1ce3396c6813a2d82deab80adfb0f8c0117
+        commit: 51de472eb3225148b9ae4c1f122759e31ef88644
